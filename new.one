@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo "Welcome to git"
+<<<<<<< HEAD
 echo hello
